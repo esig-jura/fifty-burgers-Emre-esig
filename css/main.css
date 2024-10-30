@@ -1,5 +1,8 @@
-b{
+body{
     font-family: Verdana, sans-serif;
+    color: black;
+    background-color: white;
+
 }
 
 header{
@@ -12,4 +15,8 @@ header{
     margin-right: auto;
     max-width: 100%;
     height: auto;
+}
+
+#Titre-Principal{
+
 }
