@@ -19,6 +19,10 @@ header{
     display: block;
 }
 
+h1, h2{
+    font-family: Georgia, Serif;
+}
+
 #Burger-titre{
     display: block;
     margin-left: auto;
@@ -78,13 +82,14 @@ li{
     border-bottom-right-radius: 30px;
 }
 
-#betty, #hautDePage{
+a{
     color: green;
     text-decoration: none;
 
 }
 
 a:hover{
+    cursor: pointer;
     color: #E8A062;
 }
 
